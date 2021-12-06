@@ -1,0 +1,12 @@
+.main_holder{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.main_card{
+    width: 90vw;
+}

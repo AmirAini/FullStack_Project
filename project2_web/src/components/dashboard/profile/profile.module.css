@@ -1,0 +1,43 @@
+.profile_layout{
+    height: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.profile_holder{
+    width: 100%;
+    padding: 10px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    overflow-y: hidden;
+    
+}
+
+.profile_left{
+    width: 40%;
+    height: 320px;
+    background-image: url('../../../assests/pic2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-right: black 2px solid;
+}
+
+.profile_right{
+    width: 40%;
+    height: 320px;
+    padding-right: 40px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    
+}
