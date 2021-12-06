@@ -1,0 +1,21 @@
+.login_holder{
+    overflow-y: hidden;
+    height: 90vh;
+    width: 100vw;
+    padding:0 80px;
+    box-sizing: border-box;
+}
+
+.image_holder{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:5px;
+    box-sizing: border-box;
+}
+
+.login_image{
+    width: 200px;
+    height: 160px;
+}
+

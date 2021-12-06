@@ -1,0 +1,17 @@
+.stat_holder{
+    width: 100%;
+    display:flex;
+    flex-direction: row;
+    padding:15px;
+    justify-content: space-around;
+}
+
+.stat_table{
+    width: 40%;
+}
+
+
+.stat_chart{
+    width: 25%;
+    justify-content: start;
+}
